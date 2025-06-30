@@ -8,3 +8,4 @@ so far, we've
 other parallels we're exploring
 - agentic automations
 - generative ai product commercials
+- contextual medical memory
